@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cyphpython
-- 👀 I’m interested in python code 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in all code 
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate with no one for the moment
 - 📫 How to reach me ...
 
