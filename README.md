@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Cyphpython
+- 👋 Hi, I’m @Elden_Modder
+- i created mod and games
 - 👀 I’m interested in all code 
 - 🌱 I’m currently learning Lua !
 - 💞️ I’m looking to collaborate with no one for the moment
