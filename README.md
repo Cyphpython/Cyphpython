@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Elden_Modder
+- 👋 Hi, I’m Elden_Modder
 - 🐱‍💻i created mod and games
 - 👀 I’m interested in all code 
-- 🌱 I’m currently learning Lua !
+- 🌱 I’m currently learning C# and Modding for FromSoftware Game !
 - 💞️ I’m looking to collaborate with no one for the moment
 - 📫 How to reach me ...
 
