@@ -16,5 +16,5 @@ Fun Facts about me:
   <li> I have ADHD </li> 🧠
   <li> i prefer tea at coffee </li> 🍵
   <li> i have a cat and a dog </li> 🐈🐕
-  <li> <h2> My Hobbies are : </h2> <ul> <li>Video Game</li> <li>Modding</li> <li>Reading</li> <li>Anime</li> <li>Learning</li> <li>Drawing</li></ul></li>
+  <li> <h2> My Hobbies are : </h2> <ul> <li>Video Game</li>🎮 <li>Modding</li>🔧 <li>Reading</li>📚 <li>Anime</li>⭐ <li>Learning</li>🎓 <li>Drawing</li>🎨 </ul></li>
 </ul>
