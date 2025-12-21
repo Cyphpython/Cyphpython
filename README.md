@@ -12,8 +12,9 @@ the main game engine i use is Unity and Godot but i also work with Unreal Engine
 
 Fun Facts about me:
 <ul>
+  <li> My pfp was drawn by me</li>
   <li> I have ADHD </li> 🧠
   <li> i prefer tea at coffee </li> 🍵
   <li> i have a cat and dog </li> 🐈🐕
-  <li> <h2> My Hobbies are : </h2> Video Game, Modding, Reading, Anime and Learning</li>
+  <li> <h2> My Hobbies are : </h2> Video Game, Modding, Reading, Anime, Learning and Drawing</li>
 </ul>
