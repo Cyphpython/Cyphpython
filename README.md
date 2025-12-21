@@ -12,7 +12,7 @@ the main game engine i use is Unity and Godot but i also work with Unreal Engine
 
 Fun Facts about me:
 <ul>
-  <li> My pfp was drawn by me</li>
+  <li> My pfp was drawn by me</li> 🖌️
   <li> I have ADHD </li> 🧠
   <li> i prefer tea at coffee </li> 🍵
   <li> i have a cat and dog </li> 🐈🐕
