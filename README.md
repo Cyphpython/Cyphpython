@@ -1,11 +1,19 @@
-- 👋 Hi, I’m Elden_Modder
-- 🐱‍💻i created mod and games
-- 👀 I’m interested in all code 
-- 🌱 I’m currently learning C++ and Modding for FromSoftware Game !
-- 💞️ I’m looking to collaborate with no one for the moment
-- 📫 How to reach me ...
+<h1> Hello World 👋 </h1>
 
-<!---
-Cyphpython/Cyphpython is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+i'm [EldenModder](https://github.com/EldenModder), A game programmer and modder from Belgium. 🇧🇪
+
+I make principally game 🎮 but i also make mods for game i play like Dark Souls ⚔️ or Factorio⚙️.
+
+I love learning new things that the main reason i make project. 📖
+
+💻
+My main tech stack is C# and C++ but i also love testing other languages like Lua, Rust or GDScript, 
+the main game engine i use is Unity and Godot but i also work with Unreal Engine or other more handcrafting like SDL, Raylib or Love2D.
+
+Fun Facts about me:
+<ul>
+  <li> I have ADHD </li> 🧠
+  <li> i prefer tea at coffee </li> 🍵
+  <li> i have a cat and dog </li> 🐈🐕
+  <li> <h2> My Hobbies are : </h2> Video Game, Modding, Reading, Anime and Learning</li>
+</ul>
